@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hangfire.Simplify", "Hangfire.Simplify\Hangfire.Simplify.csproj", "{15AF0C3F-2B2E-407B-8543-3A961227E176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{394AD7FF-ABD1-452A-A7AA-ECA65D1A715B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{15AF0C3F-2B2E-407B-8543-3A961227E176}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15AF0C3F-2B2E-407B-8543-3A961227E176}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15AF0C3F-2B2E-407B-8543-3A961227E176}.Release|Any CPU.Build.0 = Release|Any CPU
-		{394AD7FF-ABD1-452A-A7AA-ECA65D1A715B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{394AD7FF-ABD1-452A-A7AA-ECA65D1A715B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{394AD7FF-ABD1-452A-A7AA-ECA65D1A715B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{394AD7FF-ABD1-452A-A7AA-ECA65D1A715B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
