@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Hangfire" Version="1.7.20" />
-    <PackageReference Include="Hangfire.Mongo" Version="0.7.20" />
+    <PackageReference Include="Hangfire.Mongo" Version="1.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
   </ItemGroup>
 
